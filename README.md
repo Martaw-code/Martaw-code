@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <h4> Here you can see my stats: </h4>
 
 <div>   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martaw-code&layout=compact&langs_count=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martaw-code&hide=Makefile,Shaderlab,HLSLlayout=compact&langs_count=20" />
 </div>
  
