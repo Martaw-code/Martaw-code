@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 <div>   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martaw-code&layout=compact&hide=Jupyter%20Notebook,Makefile,Shaderlab,HLSL&langs_count=20" />
 </div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=martaw-code&show_icons=true" /> 
-</div>  
  
