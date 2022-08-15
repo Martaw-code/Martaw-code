@@ -2,7 +2,6 @@
 
 <!-- 🔭 I’m currently working as a Software Developer and -->
 - 🌱 I’m currently learning about Pattern Recognition and Machine Learning
-- 👯 I’m looking to collaborate on open source and educational projects to give someone a hand 
 <!-- 🤔 I’m looking for help with -->
 <!-- 💬 Ask me about whatever you want -->
 <!--
