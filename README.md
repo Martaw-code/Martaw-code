@@ -2,8 +2,8 @@
 
 <!-- 🔭 I’m currently working as a Software Developer and -->
 - 🌱 I’m currently learning about Pattern Recognition and Machine Learning
-<!-- 🤔 I’m looking for help with -->
-<!-- 💬 Ask me about whatever you want -->
+- 📚 I’m interested in statistics, ML, skiing and hiking
+- 💬 Ask me about whatever you want
 <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
