@@ -13,6 +13,6 @@
 <h4> Here you can see my stats: </h4>
 
 <div>   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martaw-code&hide=HTML,Makefile,TeX,CSS,QMake&layout=compact&langs_count=30" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martaw-code&hide=HTML,Makefile,TeX,CSS,QMake&layout=compact&langs_count=20" />
 </div>
  
