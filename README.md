@@ -1,7 +1,7 @@
 ### Hi there 😊👋
 
 <!-- 🔭 I’m currently working as a Software Developer and -->
-- 🌱 I’m currently learning about Pattern Recognition and Machine Learning
+- 🌱 I’m currently learning about Quantum physics
 - 📚 I’m interested in physics, statistics, ML, skiing and hiking
 - 💬 Ask me about whatever you want
 <!--
