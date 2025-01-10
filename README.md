@@ -1,8 +1,8 @@
 ### Hi there 😊👋
 
 <!-- 🔭 I’m currently working as a Software Developer and -->
-- 🌱 I’m currently learning about Quantum physics
-- 📚 I’m interested in physics, statistics, ML, skiing and hiking
+- 🌱 Computer Science Engineer from FIB-UPC (Polytechnic University of Catalonia)
+- 📚 I am currently pursuing a Master of Science in Data Science
 <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
