@@ -1,11 +1,13 @@
 body {
     font-family: Arial, sans-serif;
+    font-size: 24px;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background: url('castellers.jpg') no-repeat center center fixed;
+    background: url('/static/images/castellers.jpg') no-repeat center center fixed;
     background-size: cover;
     color: #333;
+    text-align: justify; /* Afegeix justificació al text */
 }
 
 body::before {
@@ -23,7 +25,7 @@ header {
     background: #E00000;
     color: #ffcc00;
     padding: 1rem 0;
-    text-align: center;
+    text-align: center; /* Manté el text del header centrat */
     position: relative;
 }
 
@@ -48,12 +50,14 @@ section {
     background: rgba(255, 255, 255, 0.8);
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: justify; /* Justifica el text dins les seccions */
 }
 
 section h2 {
     color: #E00000;
     font-size: 1.8rem;
     margin-bottom: 10px;
+    text-align: left; /* Deixa els títols alineats a l'esquerra */
 }
 
 footer {
